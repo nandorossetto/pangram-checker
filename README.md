@@ -1,7 +1,7 @@
 Pangram Checker
 =========
 
-To use it you'll need to have installed Node.js. So, if you don't, take a look at nodejs.org and after that, check if you have GruntJS installed too, if you don't have please visit https://gruntjs.com/installing-grunt
+To use it you'll need to have installed Node.js. So, if you don't, take a look at https://nodejs.org/en/ and after that, check if you have GruntJS installed too, if you don't have please visit https://gruntjs.com/installing-grunt
 
 Installation
 --------------
