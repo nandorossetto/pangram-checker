@@ -1,0 +1,17 @@
+body{
+    background: #101a35;
+    font-family: Arial;
+    color: #fff;
+}
+
+#page{
+    width: 272px;
+    margin: 30px auto 0;
+
+    .title{
+        font: normal 26px 'Bookman', Arial;
+        color: #fff;
+        text-align: center;
+        padding-bottom: 10px;
+    }
+}
